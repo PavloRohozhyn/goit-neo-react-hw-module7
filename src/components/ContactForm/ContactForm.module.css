@@ -1,0 +1,24 @@
+.contactFormWrapper {
+  max-width: 200px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: content-box;
+  margin-bottom: 20px;
+}
+
+.contactLabel {
+  display: block;
+}
+
+.contactUname {
+  margin-bottom: 10px;
+}
+
+.contactUnumber {
+  margin-bottom: 10px;
+}
+
+.contactBtn {
+  text-align: center;
+}

@@ -1,0 +1,12 @@
+.searchBlockWrapper {
+  margin-bottom: 20px;
+}
+
+.searchBoxLabel {
+  display: block;
+}
+
+.searchBoxInput {
+  width: 214px;
+  display: block;
+}
